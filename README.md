@@ -2,6 +2,12 @@
 ![Cocoapods](https://img.shields.io/cocoapods/l/AFNetworking) ![Twitter Follow](https://img.shields.io/twitter/follow/manankohlii?label=manankohlii&logo=Twitter&style=social) 
 
 ## About the Project
+### Principle
+* [OpenCV](opencv.org) (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+### Dependencies Used
+* Python 3.8.6
+* OpenCV 4.4.0
+* Pandas 1.1.5
 
 ## Saving files
 ### Using Git
