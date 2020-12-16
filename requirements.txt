@@ -1,0 +1,44 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+_pytorch_select=0.1=cpu_0
+blas=1.0=mkl
+ca-certificates=2020.11.8=h5b45459_0
+certifi=2020.11.8=py38haa244fe_0
+cffi=1.14.4=py38hd8c33c5_0
+cudatoolkit=11.0.221=h74a9793_0
+intel-openmp=2020.3=h57928b3_311
+libblas=3.8.0=21_mkl
+libcblas=3.8.0=21_mkl
+liblapack=3.8.0=21_mkl
+liblapacke=3.8.0=21_mkl
+libuv=1.40.0=he774522_0
+m2w64-gcc-libgfortran=5.3.0=6
+m2w64-gcc-libs=5.3.0=7
+m2w64-gcc-libs-core=5.3.0=7
+m2w64-gmp=6.1.0=2
+m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+mkl=2020.4=hb70f87d_311
+mkl-service=2.3.0=py38h1e8a9f7_2
+msys2-conda-epoch=20160418=1
+ninja=1.10.1=h587dcfd_2
+nltk=3.4.4=py_0
+numpy=1.19.4=py38h0cc643e_1
+opencv-python=4.4.0.46=pypi_0
+openssl=1.1.1h=he774522_0
+pandas=1.1.5=pypi_0
+pip=20.2.4=py_0
+pycparser=2.20=pyh9f0ad1d_2
+python=3.8.6=h60c2a47_0_cpython
+python-dateutil=2.8.1=pypi_0
+python_abi=3.8=1_cp38
+pytorch=1.4.0=cpu_py38ha775e86_0
+pytz=2020.4=pypi_0
+setuptools=49.6.0=py38h9bdc248_2
+six=1.15.0=pyh9f0ad1d_0
+sqlite=3.33.0=he774522_1
+typing_extensions=3.7.4.3=py_0
+vc=14.1=h869be7e_1
+vs2015_runtime=14.16.27012=h30e32a0_2
+wheel=0.35.1=pyh9f0ad1d_0
+wincertstore=0.2=py38h32f6830_1005
