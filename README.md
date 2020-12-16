@@ -3,10 +3,17 @@
 
 ## Saving files
 ### Using Git
-*Open Terminal
-*Traverse to the directory where you want to save project files
-*Type in `git clone 
+* Open Terminal
+* Traverse to the directory where you want to save project files
+* Type `git clone https://github.com/manankohlii/object-detection-opencv.git`
+
+### Download from GitHub
+* Go to **Code** in the Repository
+* Download ZIP
+* Unzip and save files 
 
 ## Setting up Virtual Environment
 ### With Conda
-Use `conda create --name <env> --file <this file>` 
+* Open Terminal 
+* Traverse to the directory where files were saved
+* Use `conda create --name <env> --file requirements.txt` 
