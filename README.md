@@ -3,7 +3,7 @@
 
 ## About the Project
 ### Principle
-* [OpenCV](opencv.org) (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
+* [OpenCV](https://opencv.org/) (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.
 ### Dependencies Used
 * Python 3.8.6
 * OpenCV 4.4.0
